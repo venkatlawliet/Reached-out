@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Runtime/private data
+contacts.csv
+count.json
+template.json
+
+# Local tooling
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
